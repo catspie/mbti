@@ -65,4 +65,4 @@ https://astounding-creponne-8984f4.netlify.app
 - 미디어쿼리(@media)를 활용하여 화면 크기별로 css를 따로 설정할 수 있다. 
 - import, export 기능을 활용하여 js파일의 객체 데이터를 주고 받을 수 있다. 
 
-# 사이트 배포 (netlify)
+# 🌸사이트 배포 (netlify)
